@@ -261,8 +261,12 @@ margin-top: 74px;
 	padding-bottom: 120px;
 }
 
+.skills {
+	margin-top: 25px;
+}
+
 #portfolio {
-	margin-top: 125px;
+	margin-top: 40px;
 }
 
 #portfolio img {
